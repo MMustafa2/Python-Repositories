@@ -2,7 +2,7 @@
 Python code
 
 # File naming convention
-<year>-<month>-<day>-<workinghours>.py
+year-month-day-workinghours.py
 
 # Multiline Comment on top of each file
 """
