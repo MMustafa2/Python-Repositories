@@ -16,5 +16,9 @@ Lastly I've added a sample file
 25-08-2025-4.5.py
 
 <h1>
-My python repository "Muhammad Mustafa"
+My python repository
+<br>
+<h3>
+"Muhammad Mustafa"
+</h3>
 </h1>
